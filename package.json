@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-standard-for-preact",
+  "version": "0.1.0",
+  "description": "Tying together all dependencies needed to install `eslint` using `standard` style for `preact`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queicherius/eslint-config-standard-for-preact.git"
+  },
+  "keywords": [
+    "standard",
+    "preact",
+    "eslint",
+    "linting",
+    "bundle"
+  ],
+  "author": "queicherius@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/queicherius/standard-for-preact/issues"
+  },
+  "homepage": "https://github.com/queicherius/standard-for-preact#readme",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-preact": "^1.0.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.0.1",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
