@@ -6,8 +6,8 @@ This is nothing more than an installation bundle, really.
 
 ## Usage
 
-```bash
-npm install --save-dev 
+```sh
+npm install --save-dev eslint-config-standard-for-preact
 eslint -c standard-for-preact src/
 ```
 
