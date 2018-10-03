@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-for-preact",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Tying together all dependencies needed to install `eslint` using `standard` style for `preact`",
   "main": "index.js",
   "scripts": {
