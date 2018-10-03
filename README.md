@@ -1,3 +1,7 @@
+### :boom: Careful: This package is no longer maintained and is only here for historic reasons. This means you should very likely not use it. You have been warned. :boom:
+
+---
+
 # eslint-config-standard-for-preact
 
 > Tying together all dependencies needed to install `eslint` using `standard` style for `preact`
